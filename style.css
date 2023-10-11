@@ -1,15 +1,15 @@
 Body{
 font-family:calibri,helvetica,sans-serif;
-background-color:pink;
+background-color:rgb(255, 0, 212);
 }
 button{
-background-color:#4CAF50;
+background-color:#355536;
 width:auto;
-color:orange;
+color:rgb(21, 255, 0);
 padding:10px;
 margin:10px 10px;
 border:none;
-cusor:pointer;
+cursor:pointer;
 position:relative;
 }
 form{
